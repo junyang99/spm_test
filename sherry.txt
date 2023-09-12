@@ -5,4 +5,8 @@ hello
 hello im khoo-ing tonight 
 byebye
 wobuyao
+<<<<<<< Updated upstream
 hello darkness my old friend
+=======
+hello darkness my old friend hi my name is wan lin
+>>>>>>> Stashed changes
